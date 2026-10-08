@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm @sheinminhtet4 👋</h1>
+<h1 align="center">Hi, I'm SHEIN MIN HTET 👋</h1>
 
 <p align="center">
   <strong>Frontend &amp; Full-stack Developer</strong><br>
