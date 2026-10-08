@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Frontend &amp; Full-stack Developer</strong><br>
-  Building thoughtful interfaces and practical web applications.
+  I build practical web applications, from the interface to the API and database.
 </p>
 
 <p align="center">
@@ -15,14 +15,21 @@
 
 ### About me
 
-I enjoy turning ideas into web experiences that are clear, useful, and easy to use. My interests span the frontend experience and the application logic behind it. I use GitHub to share what I build and document what I learn along the way.
+I enjoy making web experiences that are clear, useful, and easy to maintain. My work spans responsive interfaces, application logic, data-backed features, and the documentation needed to keep a project moving.
+
+### Technologies I work with
+
+- **Frontend:** React, TypeScript, JavaScript, Vite, HTML, and CSS
+- **Backend:** Node.js, Express, and PHP
+- **Data:** MySQL and MariaDB
+- **Workflow:** Git, GitHub Actions, automated tests, and technical documentation
 
 ### What I focus on
 
-- **Frontend:** Responsive layouts, accessible interactions, and polished user experiences.
-- **Full-stack:** Connecting interfaces, APIs, and data into useful features.
-- **Engineering:** Readable code, clear documentation, and steady improvement.
+- Building responsive interfaces with straightforward user journeys.
+- Connecting frontend experiences to reliable APIs and databases.
+- Writing maintainable code and documenting how things work.
 
-### Let's connect
+### Explore and connect
 
-Find my work in [my repositories](https://github.com/sheinminhtet4?tab=repositories). If a project interests you, feel free to open an issue or discussion in that repository.
+Browse my [public repositories](https://github.com/sheinminhtet4?tab=repositories) to see what I've shared. You can also reach me through [GitHub](https://github.com/sheinminhtet4).
